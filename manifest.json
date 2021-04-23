@@ -1,0 +1,8 @@
+{
+  "manifest_version": 2,
+  "name": "Svelte Extension Demo",
+  "version": "0.1.0",
+  "description": "Display XHR payloads in a DevTools panel",
+  "author": "John Apostol",
+  "devtools_page": "devtools.html"
+}
